@@ -1,1 +1,3 @@
-Feature one
+Feature one updated by dev two
+
+This is cool code added by developer two
