@@ -1,5 +1,6 @@
-Feature one updated by dev one
+Feature one updated by devs one and two
 
 
 This is cool code added by developer one
 
+This is cool code added by developer two
